@@ -72,7 +72,7 @@
   border: solid;
   height: 110px;
   width: 115px;
-  padding: 30px22;
+  padding: 30px;
   border-radius: 50%;
   top: 2%;
   left: 50%;
@@ -149,4 +149,3 @@ video {
   min-height: 100%;
   z-index: -10;
 }
-
